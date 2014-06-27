@@ -21,14 +21,14 @@
 		CC800B03195D4A69001D26BD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CC800AE5195D4A68001D26BD /* UIKit.framework */; };
 		CC800B0B195D4A69001D26BD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CC800B09195D4A69001D26BD /* InfoPlist.strings */; };
 		CC800B0D195D4A69001D26BD /* buttonOutputTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CC800B0C195D4A69001D26BD /* buttonOutputTests.m */; };
-		CC800B1E195D4AC0001D26BD /* go0.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B16195D4AC0001D26BD /* go0.png */; };
-		CC800B1F195D4AC0001D26BD /* go45.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B17195D4AC0001D26BD /* go45.png */; };
-		CC800B20195D4AC0001D26BD /* go90.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B18195D4AC0001D26BD /* go90.png */; };
-		CC800B21195D4AC0001D26BD /* go135.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B19195D4AC0001D26BD /* go135.png */; };
-		CC800B22195D4AC0001D26BD /* go180.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B1A195D4AC0001D26BD /* go180.png */; };
-		CC800B23195D4AC0001D26BD /* go225.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B1B195D4AC0001D26BD /* go225.png */; };
-		CC800B24195D4AC0001D26BD /* go270.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B1C195D4AC0001D26BD /* go270.png */; };
-		CC800B25195D4AC0001D26BD /* go315.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B1D195D4AC0001D26BD /* go315.png */; };
+		CC800B3E195D6DB1001D26BD /* go0.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B36195D6DB1001D26BD /* go0.png */; };
+		CC800B3F195D6DB1001D26BD /* go45.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B37195D6DB1001D26BD /* go45.png */; };
+		CC800B40195D6DB1001D26BD /* go90.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B38195D6DB1001D26BD /* go90.png */; };
+		CC800B41195D6DB1001D26BD /* go135.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B39195D6DB1001D26BD /* go135.png */; };
+		CC800B42195D6DB1001D26BD /* go180.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B3A195D6DB1001D26BD /* go180.png */; };
+		CC800B43195D6DB1001D26BD /* go225.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B3B195D6DB1001D26BD /* go225.png */; };
+		CC800B44195D6DB1001D26BD /* go270.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B3C195D6DB1001D26BD /* go270.png */; };
+		CC800B45195D6DB1001D26BD /* go315.png in Resources */ = {isa = PBXBuildFile; fileRef = CC800B3D195D6DB1001D26BD /* go315.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,14 +61,14 @@
 		CC800B08195D4A69001D26BD /* buttonOutputTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "buttonOutputTests-Info.plist"; sourceTree = "<group>"; };
 		CC800B0A195D4A69001D26BD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CC800B0C195D4A69001D26BD /* buttonOutputTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = buttonOutputTests.m; sourceTree = "<group>"; };
-		CC800B16195D4AC0001D26BD /* go0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go0.png; path = ../../../Pictures/item/go0.png; sourceTree = "<group>"; };
-		CC800B17195D4AC0001D26BD /* go45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go45.png; path = ../../../Pictures/item/go45.png; sourceTree = "<group>"; };
-		CC800B18195D4AC0001D26BD /* go90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go90.png; path = ../../../Pictures/item/go90.png; sourceTree = "<group>"; };
-		CC800B19195D4AC0001D26BD /* go135.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go135.png; path = ../../../Pictures/item/go135.png; sourceTree = "<group>"; };
-		CC800B1A195D4AC0001D26BD /* go180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go180.png; path = ../../../Pictures/item/go180.png; sourceTree = "<group>"; };
-		CC800B1B195D4AC0001D26BD /* go225.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go225.png; path = ../../../Pictures/item/go225.png; sourceTree = "<group>"; };
-		CC800B1C195D4AC0001D26BD /* go270.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go270.png; path = ../../../Pictures/item/go270.png; sourceTree = "<group>"; };
-		CC800B1D195D4AC0001D26BD /* go315.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = go315.png; path = ../../../Pictures/item/go315.png; sourceTree = "<group>"; };
+		CC800B36195D6DB1001D26BD /* go0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go0.png; sourceTree = SOURCE_ROOT; };
+		CC800B37195D6DB1001D26BD /* go45.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go45.png; sourceTree = SOURCE_ROOT; };
+		CC800B38195D6DB1001D26BD /* go90.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go90.png; sourceTree = SOURCE_ROOT; };
+		CC800B39195D6DB1001D26BD /* go135.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go135.png; sourceTree = SOURCE_ROOT; };
+		CC800B3A195D6DB1001D26BD /* go180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go180.png; sourceTree = SOURCE_ROOT; };
+		CC800B3B195D6DB1001D26BD /* go225.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go225.png; sourceTree = SOURCE_ROOT; };
+		CC800B3C195D6DB1001D26BD /* go270.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go270.png; sourceTree = SOURCE_ROOT; };
+		CC800B3D195D6DB1001D26BD /* go315.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = go315.png; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,15 +143,15 @@
 			isa = PBXGroup;
 			children = (
 				CC800AE9195D4A68001D26BD /* buttonOutput-Info.plist */,
-				CC800B16195D4AC0001D26BD /* go0.png */,
-				CC800B17195D4AC0001D26BD /* go45.png */,
-				CC800B18195D4AC0001D26BD /* go90.png */,
-				CC800B19195D4AC0001D26BD /* go135.png */,
-				CC800B1A195D4AC0001D26BD /* go180.png */,
-				CC800B1B195D4AC0001D26BD /* go225.png */,
-				CC800B1C195D4AC0001D26BD /* go270.png */,
-				CC800B1D195D4AC0001D26BD /* go315.png */,
 				CC800AEA195D4A68001D26BD /* InfoPlist.strings */,
+				CC800B36195D6DB1001D26BD /* go0.png */,
+				CC800B37195D6DB1001D26BD /* go45.png */,
+				CC800B38195D6DB1001D26BD /* go90.png */,
+				CC800B39195D6DB1001D26BD /* go135.png */,
+				CC800B3A195D6DB1001D26BD /* go180.png */,
+				CC800B3B195D6DB1001D26BD /* go225.png */,
+				CC800B3C195D6DB1001D26BD /* go270.png */,
+				CC800B3D195D6DB1001D26BD /* go315.png */,
 				CC800AED195D4A69001D26BD /* main.m */,
 				CC800AEF195D4A69001D26BD /* buttonOutput-Prefix.pch */,
 			);
@@ -252,17 +252,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CC800B1E195D4AC0001D26BD /* go0.png in Resources */,
-				CC800B24195D4AC0001D26BD /* go270.png in Resources */,
-				CC800B1F195D4AC0001D26BD /* go45.png in Resources */,
-				CC800B20195D4AC0001D26BD /* go90.png in Resources */,
-				CC800B23195D4AC0001D26BD /* go225.png in Resources */,
-				CC800B22195D4AC0001D26BD /* go180.png in Resources */,
-				CC800B21195D4AC0001D26BD /* go135.png in Resources */,
+				CC800B3E195D6DB1001D26BD /* go0.png in Resources */,
+				CC800B44195D6DB1001D26BD /* go270.png in Resources */,
+				CC800B3F195D6DB1001D26BD /* go45.png in Resources */,
+				CC800B40195D6DB1001D26BD /* go90.png in Resources */,
+				CC800B43195D6DB1001D26BD /* go225.png in Resources */,
+				CC800B42195D6DB1001D26BD /* go180.png in Resources */,
+				CC800B41195D6DB1001D26BD /* go135.png in Resources */,
 				CC800AFA195D4A69001D26BD /* Images.xcassets in Resources */,
 				CC800AEC195D4A69001D26BD /* InfoPlist.strings in Resources */,
 				CC800AF5195D4A69001D26BD /* Main.storyboard in Resources */,
-				CC800B25195D4AC0001D26BD /* go315.png in Resources */,
+				CC800B45195D6DB1001D26BD /* go315.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -490,6 +490,7 @@
 				CC800B12195D4A69001D26BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC800B13195D4A69001D26BD /* Build configuration list for PBXNativeTarget "buttonOutputTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +499,7 @@
 				CC800B15195D4A69001D26BD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
