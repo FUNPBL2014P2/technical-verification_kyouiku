@@ -11,3 +11,9 @@
 @interface ViewController : UIViewController
 
 @end
+
+@interface DragView : UIImageView {
+	CGPoint startLocation;
+}
+
+@end

@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="768" height="1024"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="go45.png" translatesAutoresizingMaskIntoConstraints="NO" id="64O-S9-Ct7">
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="go45.png" translatesAutoresizingMaskIntoConstraints="NO" id="64O-S9-Ct7" customClass="DragView">
                                 <rect key="frame" x="34" y="208" width="240" height="80"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
@@ -24,7 +24,7 @@
                                 <rect key="frame" x="478" y="208" width="240" height="80"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="goal.png" translatesAutoresizingMaskIntoConstraints="NO" id="HVh-Q8-zRb">
+                            <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="goal.png" translatesAutoresizingMaskIntoConstraints="NO" id="HVh-Q8-zRb" customClass="DragView">
                                 <rect key="frame" x="34" y="346" width="240" height="80"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
