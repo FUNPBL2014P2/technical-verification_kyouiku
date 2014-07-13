@@ -9,11 +9,13 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIImageView *startiv;
 
 @end
 
 @interface DragView : UIImageView {
 	CGPoint startLocation;
 }
+@property (retain) UIImageView *goaliv;
 
 @end
